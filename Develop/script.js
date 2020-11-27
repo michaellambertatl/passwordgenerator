@@ -78,12 +78,6 @@ function getRandomSymbol() {
 	return symbols[Math.floor(Math.random() * symbols.length)];
 }
 
-
-
-
-
-
-
 // SOCIAL PANEL JS
 const floating_btn = document.querySelector('.floating-btn');
 const close_btn = document.querySelector('.close-btn');
